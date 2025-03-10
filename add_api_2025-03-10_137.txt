@@ -1,0 +1,1 @@
+Add API response for client (simplified) - Implemented a new feature to enhance API response.
