@@ -1,0 +1,1 @@
+Remove payment gateway for scalability (easy) - Implemented a new feature to enhance payment gateway.
