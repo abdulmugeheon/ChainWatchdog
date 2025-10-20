@@ -1,0 +1,1 @@
+Remove role management for database (quick) - Implemented a new feature to enhance role management.
