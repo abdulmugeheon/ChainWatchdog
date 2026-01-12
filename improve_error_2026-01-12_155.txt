@@ -1,0 +1,1 @@
+Improve error handling for API (low-priority) - Implemented a new feature to enhance error handling.
